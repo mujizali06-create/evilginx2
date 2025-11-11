@@ -1,0 +1,4 @@
+sudo apt install git golang-go-y 
+cd evilginx2
+make 
+sudo ./bin/evilginx
